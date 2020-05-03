@@ -1,0 +1,16 @@
+GSM4017139_Control_1_E_coli_2_.CEL
+GSM4017140_Control_2_E_coli_2_.CEL
+GSM4017141_Control_3_E_coli_2_.CEL
+GSM4017142_Benz_chlor_1_E_coli_2_.CEL
+GSM4017143_Benz_chlor_2_E_coli_2_.CEL
+GSM4017144_Benz_chlor_3_E_coli_2_.CEL
+GSM4017145_Chlorhex_1_E_coli_2_.CEL
+GSM4017146_Chlorhex_2_E_coli_2_.CEL
+GSM4017147_Chlorhex_3_E_coli_2_.CEL
+GSM4017148_H2O2_1_E_coli_2_.CEL
+GSM4017149_H2O2_2_E_coli_2_.CEL
+GSM4017150_H2O2_3_E_coli_2_.CEL
+GSM4017151_Tric_1_E_coli_2_.CEL
+GSM4017152_Tric_2_E_coli_2_.CEL
+GSM4017153_Tric_3_E_coli_2_.CEL
+list.txt
